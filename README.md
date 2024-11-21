@@ -1,5 +1,6 @@
 # Cans12erV2
-<img src="assets/Cans12erV2.png" alt="Cans12erV2" width="960"/>
+<img src="assets/Cans12erV2.png" alt="Cans12erV2" width="720"/>
+<img src="assets/cans12erv2_build.jpg" alt="cans12erV2 build" width="720"/>
 
 The updated version of my 12-key, 1-encoder, orthogonal keypad with hot swappable keyswitches designed by me!
 Programming and customization of each key is planned to be provided by QMK/VIA.
